@@ -13,10 +13,10 @@
   <h1>DAYKEEPER API DOCS</h1>
 
   <h3 align="center">DayKeeper API Documentation</h3>
-
+  Instructions, Getting Started, Endpoints...
   <p align="center">
     <br />
-    <a href="https://app.netlify.com/sites/daykeeper-docs/overview"><strong>Explore it »</strong></a>
+    <a href="https://daykeeper-docs.netlify.app"><strong>Explore it »</strong></a>
     <br />
     <br />
     <a href="https://github.com/luciano655dev/daykeeper-api">DayKeeper API</a>
