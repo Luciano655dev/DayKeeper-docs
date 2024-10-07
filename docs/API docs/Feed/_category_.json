@@ -1,0 +1,8 @@
+{
+  "label": "Feed and Search",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Endpoints about Feed and Search."
+  }
+}
