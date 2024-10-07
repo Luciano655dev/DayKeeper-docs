@@ -10,14 +10,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>DAYKEEPER API documentation</h1>
+  <h1>DAYKEEPER API DOCS</h1>
 
-  <h3 align="center">Journal social-media</h3>
+  <h3 align="center">DayKeeper API Documentation</h3>
 
   <p align="center">
-    DayKeeper API Endpoints Documentation
     <br />
-    <a href="https://github.com/luciano655dev/daykeeper-api-docs"><strong>Explore it »</strong></a>
+    <a href="https://app.netlify.com/sites/daykeeper-docs/overview"><strong>Explore it »</strong></a>
     <br />
     <br />
     <a href="https://github.com/luciano655dev/daykeeper-api">DayKeeper API</a>
@@ -35,7 +34,7 @@
 
 <img width="1492" alt="Screenshot 2024-10-06 at 11 14 47 PM" src="https://github.com/user-attachments/assets/b17c17ba-8513-414d-999f-285fa41420e3">
 
-Welcome to the DayKeeper! DayKeeper is an <strong>open-source social network</strong> with a <strong>journal style</strong> designed to help you turn your daily moments into cherished memories providing you a optimized, transparent and user friendly platform.
+Welcome to the DayKeeper! DayKeeper is an <strong>open-source social network</strong> with a <strong>journal style</strong> designed to help you turn your daily moments into cherished memories providing you a optimized, transparent and user friendly platform. <a href="https://daykeeper-about.netlify.app">See more about DayKeeper.</a>
 
 This repository contains documentation for the <strong>Daykeeper API.</strong> From public and private endpoints, administrator endpoints, user guide, contribution guide, etc.
 
